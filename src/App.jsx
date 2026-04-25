@@ -80,7 +80,7 @@ const App = () => {
 
       <input type="text" onChange={handleInputChange} value={value} />
       <p>You typed: {value}</p>
-    
+    <p>hi</p>
     </div>
   );
 };
